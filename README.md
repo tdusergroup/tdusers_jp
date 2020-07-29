@@ -1,2 +1,2 @@
-# tips
-tips and utilities
+# Hello World!!
+コミュニティ用のリポジトリです
